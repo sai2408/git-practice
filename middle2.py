@@ -1,0 +1,1 @@
+print("Inter 2")
